@@ -50,8 +50,6 @@ puts "Hello upticks!"
 1. Each of these 4 methods should be from different Ruby Classes
 1. Give each ruby method an H3 with the method's name, surrounding it in single upticks
 1. Below each method, define the method in your own words
-1. Below each definition, use 3 upticks to show an example of the methods use
-  * Feel free to use Ruby comments in your code snippet to make its application very clear - `# this is a comment example`
-  * Specifying the language after the first 3 upticks lets Github to use color styling
+1. Below each definition, use 3 upticks to show an example of the methods use. Feel free to use Ruby comments in your code snippet to make its application very clear - `# this is a comment example`. Specifying the programing language after the first 3 upticks lets Github know to use color styling.
 1. Add, commit, and push your work
 1. Open a PR with a screenshot of your 4 favorite Ruby methods
