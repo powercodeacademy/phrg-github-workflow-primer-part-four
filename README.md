@@ -43,6 +43,10 @@ puts "Hello upticks!"
 1. Add, commit, and push your work
 1. Open a PR with a screenshot of your new food section
 
+Here's an example:
+
+![Favorite Foods Example](https://raw.githubusercontent.com/powerhome/phrg-github-workflow-primer-part-four/master/favorite-foods-example.png?raw=true "Favorite Foods Example Section")
+
 ## Switch drivers
 
 1. Create a new git branch for your work
