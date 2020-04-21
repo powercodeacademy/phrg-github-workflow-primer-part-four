@@ -6,13 +6,13 @@ In the middle of this lesson's tasks, your responsibilities will pivot. Whomever
 
 Before you start, acquire your designated project repo from the course instructor.
 
-# HTML review and transition to Ruby
+# HTML review, Markdown, and transition to Ruby
 
 ## Objectives
 
 * HTML review
 * Practice `git`
-* Learn about upticks in `Markdown`
+* Learn more about `Markdown` and upticks
 * Explain Ruby methods
 
 ## 'Git' your updated version
@@ -49,12 +49,14 @@ Here's an example:
 
 ## Switch drivers
 
+Time to write some Markdown. Do not write any HTML for the instructions below; instead, only use [Markdown](https://dillinger.io/)
+
 1. Create a new git branch for your work
-1. Delete the contents of the README.md and give it a new H1 of "My 4 Favorite Ruby methods"
-1. Each of these 4 methods should be from different Ruby Classes
-1. Give each ruby method an H3 with the method's name, surrounding it in single upticks
+1. Delete the contents of the README.md and give it a new H1 of "My 4 Favorite Ruby methods" Remember, files that end in the `.md` extension are Markdown files. So an "H1" is really just a "#" followed by a space. [This is a great interactive site to practice Markdown](https://dillinger.io/).
+1. Each of these 4 methods should be from different Ruby Classes. Leverage [Ruby documentation](https://ruby-doc.org/) for some ideas.
+1. Give each Ruby method an H3 (in Markdown, that is "### ") with the method's name, surrounding it in single upticks to show that you are referring to code.
 1. Below each method, define the method in your own words
-1. Below each definition, use 3 upticks to show an example of the methods use. Feel free to use Ruby comments in your code snippet to make its application very clear - `# this is a comment example`. Also, some flavors of `Markdown` allow you to provide language hints to direct the language color-coding like [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code).
+1. Below each definition, use 3 upticks to show an example of the methods use. Feel free to use Ruby comments in your code snippet to make its application very clear - `# this is a comment example in Ruby`. Also, some flavors of `Markdown` allow you to provide language hints to direct the language color-coding like [here](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#code).
 1. Add, commit, and push your work
 1. Open a PR with a screenshot of your 4 favorite Ruby methods
 
